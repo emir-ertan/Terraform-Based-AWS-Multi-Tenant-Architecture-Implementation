@@ -1,4 +1,4 @@
-# Terraform AWS Tenant Architecture
+# Terraform-Based AWS Multi-Tenant Architecture Implementation
 
 This repository contains Terraform modules and examples for deploying a multi-tenant architecture on AWS. The architecture includes a Virtual Private Cloud (VPC) with public and private subnets, NAT gateways for outbound internet access from private subnets, and EC2 instances.
 
